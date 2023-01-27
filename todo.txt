@@ -1,0 +1,7 @@
+JOURNAL:
+
+initialize app
+    npx create-react-app react-demo
+
+serve app
+    npm start
